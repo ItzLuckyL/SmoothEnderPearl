@@ -4,12 +4,6 @@ This plugin adds a client sided for Ender Pearl teleportation.
 ### Video Example
 ![Example](https://github.com/NightDevil9440/SmoothEnderPearl/blob/main/meta/example.gif)
 
-### Installation
-- Download this plugin
-- Put it in your plugins directory
-- Restart your server
-- Enjoy!
-
 ### Suggestion
 If you have any features you want in this plugin, type it in the reviews. I will try my best to add it.
 
