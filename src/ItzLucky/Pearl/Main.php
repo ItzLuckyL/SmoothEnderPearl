@@ -4,6 +4,8 @@ namespace ItzLucky\Pearl;
 
 use pocketmine\player\Player;
 
+use pocketmine\event\Listener;
+
 use pocketmine\event\entity\ProjectileHitEvent;
 
 use pocketmine\entity\projectile\EnderPearl;
