@@ -9,4 +9,4 @@ You've found a Bug?
 - Submit the issue
 
 ### Credits
-@JavierLeon9966 helped me with this code. Huge thanks to him.
+[JavierLeon9966](https://github.com/JavierLeon9966) helped me with this code. Huge thanks to him.
