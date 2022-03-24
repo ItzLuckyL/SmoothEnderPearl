@@ -2,9 +2,10 @@
 This plugin adds a client sided for Ender Pearl teleportation.
 
 ### Installation
-- Download the plugin
-- Upload it to plugins directory
+- Download this plugin
+- Put it in your plugins directory
 - Restart your server
+- Enjoy!
 
 ### Report Bug
 You've found a Bug?
