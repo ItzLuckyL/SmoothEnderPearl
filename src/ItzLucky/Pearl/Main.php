@@ -2,6 +2,8 @@
 
 namespace ItzLucky\Pearl;
 
+use pocketmine\plugin\PluginBase;
+
 use pocketmine\player\Player;
 
 use pocketmine\event\Listener;
@@ -10,7 +12,7 @@ use pocketmine\event\entity\ProjectileHitEvent;
 
 use pocketmine\entity\projectile\EnderPearl;
 
-class Main implements Listener
+class Main extends PluginBase implements Listener
 {
 
     public function onProjectileHit(ProjectileHitEvent $event) {
