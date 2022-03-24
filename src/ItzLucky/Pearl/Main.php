@@ -10,7 +10,6 @@ use pocketmine\entity\projectile\EnderPearl;
 
 class Main implements Listener
 {
-
     public function onProjectileHit(ProjectileHitEvent) {
         $projectile = $event->getEntity();
         $entity = $projectile->getOwningEntity();
