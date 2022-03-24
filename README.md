@@ -1,7 +1,3 @@
-[![](https://poggit.pmmp.io/shield.state/SmoothEnderPearl)](https://poggit.pmmp.io/p/ServerTools)
-[![](https://poggit.pmmp.io/shield.dl.total/SmoothEnderPearl)](https://poggit.pmmp.io/p/ServerTools)
-[![Discord](https://img.shields.io/discord/620519017148579841.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/AJsbBDbPvz)
-
 ### About
 This plugin adds a client sided for Ender Pearl teleportation.
 
