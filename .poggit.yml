@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   SmoothEnderPearl:
+    icon: "icon.png"
     path: ""
 ...
