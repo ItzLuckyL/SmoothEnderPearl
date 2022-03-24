@@ -15,6 +15,10 @@ use pocketmine\entity\projectile\EnderPearl;
 class Main extends PluginBase implements Listener
 {
 
+    public function onEnable() : void {
+        $this->getServer()->getPluginManager()->registerEvents($this, $this);
+    }
+
     public function onProjectileHit(ProjectileHitEvent $event) {
         $projectile = $event->getEntity();
         $entity = $projectile->getOwningEntity();
