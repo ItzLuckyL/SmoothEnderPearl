@@ -11,7 +11,7 @@ use pocketmine\entity\projectile\EnderPearl;
 class Main implements Listener
 {
 
-    public function onProjectileHit(ProjectileHitEvent) {
+    public function onProjectileHit(ProjectileHitEvent $event) {
         $projectile = $event->getEntity();
         $entity = $projectile->getOwningEntity();
         if ($projectile instanceof EnderPearl and $entity instanceof Player) {
