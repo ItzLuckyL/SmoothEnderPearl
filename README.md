@@ -1,3 +1,5 @@
+[![](https://poggit.pmmp.io/shield.dl/SmoothPearlTeleport)](https://poggit.pmmp.io/p/SmoothPearlTeleport)
+
 ### About
 This plugin adds a client sided for Ender Pearl teleportation.
 
