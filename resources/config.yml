@@ -1,0 +1,10 @@
+#If you want the player to take damage after the pearl lands, set this to "true" otherwise "false".
+#Default: true
+
+damage: true
+
+#If the value above is set to truez configure how much damage the player should take.
+#Each number is half heart. Example: "5" is 2.5 hearts.
+#Default: 2.5 hearts
+
+health: 5
