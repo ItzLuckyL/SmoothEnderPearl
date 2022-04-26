@@ -33,5 +33,4 @@ final class Main extends PluginBase
             }
         }, EventPriority::NORMAL, $this);
     }
-
 }
