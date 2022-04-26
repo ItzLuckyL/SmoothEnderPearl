@@ -13,6 +13,8 @@ use pocketmine\event\entity\ProjectileHitEvent;
 
 use pocketmine\entity\projectile\EnderPearl;
 
+use pocketmine\utils\Config;
+
 final class Main extends PluginBase
 {
 
