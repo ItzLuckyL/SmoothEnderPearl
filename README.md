@@ -6,7 +6,7 @@ This adds a smooth teleportation animation for pearl teleportation. The animatio
 ![Video Example](https://github.com/NightDevil9440/SmoothEnderPearl/blob/main/meta/example.gif)
 
 ### Suggestion
-If you have any features you want in this plugin, type it in the reviews or create an issue on GitHub. I will try my best to add it.
+If you have any suggestion that fits this plugin, make sure to create an [issue](https://github.com/NightDevil9440/SmoothEnderPearl/issues/new/choose) for it. 
 
 ### Report Bug
 You've found a Bug?
