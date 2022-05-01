@@ -1,10 +1,9 @@
 [![](https://poggit.pmmp.io/shield.dl/SmoothPearlTeleport)](https://poggit.pmmp.io/p/SmoothPearlTeleport)
 
 ### About
-This adds a smooth teleportation animation for pearl teleportation. The animation looks like the player is getting pulled towards the pearl. 
+This adds a smooth teleportation animation for pearl teleportation. The animation looks like your character is getting pulled towards the pearl. 
 
-### Video Example
-![Example](https://github.com/NightDevil9440/SmoothEnderPearl/blob/main/meta/example.gif)
+![Video Example](https://github.com/NightDevil9440/SmoothEnderPearl/blob/main/meta/example.gif)
 
 ### Suggestion
 If you have any features you want in this plugin, type it in the reviews or create an issue on GitHub. I will try my best to add it.
