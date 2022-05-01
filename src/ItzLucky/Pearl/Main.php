@@ -4,16 +4,10 @@ declare(strict_types = 1);
 namespace ItzLucky\Pearl;
 
 use pocketmine\plugin\PluginBase;
-
 use pocketmine\player\Player;
-
 use pocketmine\event\EventPriority;
-
 use pocketmine\event\entity\ProjectileHitEvent;
-
 use pocketmine\entity\projectile\EnderPearl;
-
-use pocketmine\utils\Config;
 
 final class Main extends PluginBase
 {
