@@ -3,7 +3,7 @@
 ### About
 This adds a smooth teleportation animation for pearl teleportation. The animation looks like your character is getting pulled towards the pearl. 
 
-![Video Example](https://github.com/NightDevil9440/SmoothEnderPearl/blob/main/extra/example.gif)
+![Video Example](https://github.com/NightDevil9440/PearlAnimation/blob/main/extra/VID_20220501094109.gif)
 
 ### Suggestion
 If you have any suggestion that fits this plugin, make sure to create an [issue](https://github.com/NightDevil9440/SmoothEnderPearl/issues/new/choose) for it. 
