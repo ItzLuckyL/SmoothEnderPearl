@@ -16,5 +16,6 @@ You've found a Bug?
 - Submit the issue
 
 ### Credits
-- [ZodiaX](https://github.com/ItsZodiaX) this concept.
-- [Reddit](https://www.reddit.com/r/Minecraft/comments/euztmf/i_made_the_ender_pearl_look_realisticish) for the icon.
+- [ZodiaX](https://github.com/ItsZodiaX) - for this concept.
+- [sky-min](https://github.com/sky-min) - for improving the code.
+- [Reddit](https://www.reddit.com/r/Minecraft/comments/euztmf/i_made_the_ender_pearl_look_realisticish) - for the icon.
